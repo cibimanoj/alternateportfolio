@@ -22,7 +22,7 @@ const Home = () => {
           contributing a positive outcome for myself and to the company.
         </p>
         <div>
-          <a href="https://drive.google.com/file/d/1-IBVq4PW4vUCHcKuA_j7edhrca1W6H7H/view?usp=sharing" target="_blank">
+          <a href="https://drive.google.com/file/d/1K_XU51mTZJsaqG2Uf4ltpWcSN0-p6zid/view?usp=sharing" target="_blank">
           <button className='text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-pink-600 hover:border-pink-600'>
             Resume
             <FaGoogleDrive size={30}/>
